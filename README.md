@@ -1,4 +1,4 @@
 # ppara17.github.io
 
 theme: jekyll-theme-minimal
-title: Octocat's homepage
+title: Parker's homepage
